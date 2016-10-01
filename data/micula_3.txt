@@ -1,0 +1,11 @@
+<ul>
+<li><strong>Micula, S.</strong>, On Spline Collocation and the Hibert Transform, CARPATHIAN JOURNAL OF MATHEMATICS, 31(1), 2015, P. 89 - 95.</li>
+<li><strong>Micula, S.</strong>, An iterative numerical method for Fredholm-Volterra integral equations of the second kind, APPLIED MATHEMATICS AND COMPUTATION, 270, doi:10.1016/j.amc.2015.08.110 , 2015, P. 935 - 942.</li>
+<li><strong>Micula, S.</strong>, A fast converging iterative method for Volterra integral equations of the second kind with delayed arguments, FIXED POINT THEORY, 16(2), 2015, P. 371 - 380.</li>
+<li><strong>Micula, S.</strong>, A spline collocation method for Fredholm–Hammerstein integral equations of the second kind in two variables, APPLIED MATHEMATICS AND COMPUTATION, 265, doi:10.1016/j.amc.2015.05.017, 2015, P. 352 - 357.</li>
+<li><strong>Micula, S.</strong>, Wendland Wolfgang, L., Trigonometric collocation for nonlinear Riemann–Hilbert problems on doubly connected domains, IMA JOURNAL OF NUMERICAL ANALYSIS, 35(2), DOI:10.1093/imanum/dru009 , 2015, P. 834 - 858. <strong>Micula, S.</strong>, Statistical Computer Simulations and Monte Carlo Methods, Journal of Information Systems and Operations Management, 2015, P. 385-395.</li>
+<li><strong>Micula, S.</strong>, Nonlinear Equations in MATLAB, Journal of Information Systems and Operations Management, 2014, P. 272-286.</li>
+<li><strong>Micula, S.</strong>, Gherman, C., Mironiuc, A., Olaru, B., Deme, F., Pamfil, D., Cristea, A., Petricele, I., Pop, I., Abord multidisciplinar al arteriopatiei cronice, Zilele UMF Iuliu Hatieganu, Cluj-Napoca, Zilele UMF Iuliu Hatieganu, Cluj-Napoca, 2012, P. 67-74.</li>
+<li><strong>Micula, S.</strong>, Gherman, C., Silaghi, H., Constantinescu, I., Olaru, B., Deme, F. , Pamfil, D., Petricele, I., Pop, I., Metanaliza asocierii intre polimorfismul 45T/G/276G/T, Zilele UMF Iuliu Haţieganu, Cluj-Napoca , Zilele UMF Iuliu Hatieganu, Cluj-Napoca, 2011, P. 48-54.</li>
+<li><strong>Micula, S.</strong>, Mironiuc Aurel, Palcau Laura, Rogojan Liliana, Gherman Claudia, Is there a correlation between the CEAP score and the histopathological findings in varicose disease?, ROMANIAN JOURNAL OF MORPHOLOGY AND EMBRYOLOGY, 52(1) , 2011, P. 117 – 131.</li>
+</ul>

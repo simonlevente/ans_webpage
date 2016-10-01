@@ -1,0 +1,29 @@
+<center><h4>Anul universitar 2015/2016, semestrul II.</h4></center>
+23 februarie
+<ul>
+	<li>Probleme de optimizare stohastice (<strong>conf. dr. Lisei Hannelore</strong>)</li>
+</ul>
+8 martie
+<ul>
+	<li>Extinderea unor operatori liniari și pozitivi la domenii cu laturi curbe (<strong>conf. dr. Cătinaş Teodora</strong>)</li>
+</ul>
+22 martie
+<ul>
+	<li>Validarea cu ajutorul statisticii a datelor de observație obținute în studiile medicale (<strong>conf. dr. Chiorean Ioana</strong>)</li>
+</ul>
+5 aprilie
+<ul>
+	<li>Formule de interpolare fractală cu parametru variabil (<strong>lector dr. Somogyi Ildikó</strong>)</li>
+</ul>
+19 aprilie
+<ul>
+	<li>O metodă numerică iterativă pentru ecuații funcționale integrale de tip Volterra de speța a doua (<strong>lector dr. Micula Sanda</strong>)</li>
+</ul>
+10 mai
+<ul>
+	<li>Metoda grupurilor Lie aplicată la o problemă de convecție MHD pentru o placă verticală permeabilă (<strong>lector dr. Roșca Natalia</strong>)</li>
+</ul>
+24 mai
+<ul>
+	<li>Generalizarea suprafețelor triunghiulare de tip Nielson pentru optimizarea unor funcționale de energie (<strong>conf. dr. Roth Agoston</strong>)</li>
+</ul>

@@ -1,0 +1,4 @@
+<ul>
+<li><strong>Roșca, N.-C.</strong>, Roșca, A.-V., Aly, E., Pop, I., <em>Semi-analytical solution for the flow of a nanofluid over a permeable stretching/shrinking sheet with velocity slip using Buongiorno’s mathematical model</em>, EUROPEAN JOURNAL OF MECHANICS B-FLUIDS, 58 , 2016, P. 39 - 49.</li>
+<li>Sheremet, M., Pop, I., <strong>Roșca, N.-C.</strong>, <em>Magnetic field effect on the unsteady natural convection in a wavy-walled cavity filled with a nanofluid: Buongiorno</em></li>
+</ul>

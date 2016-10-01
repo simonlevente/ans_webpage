@@ -1,0 +1,12 @@
+﻿<b>Lisei H.-I.</b>, Vas, O, <i>Critical point result of Schechter type in a Banach space</i>, ELECTRONIC JOURNAL OF QUALITATIVE THEORY OF DIFFERENTIAL EQUATIONS, 14, 2016, P. 1 - 16.
+<b>Lisei H.-I.</b>, Keller, D., <i>A stochastic nonlinear Schrodinger problem in variational formulation</i>, NODEA-NONLINEAR DIFFERENTIAL EQUATIONS AND APPLICATIONS, vol. 23, nr. 2, 2016, P. 1 - 27.
+<b>Lisei H.-I.</b>, Precup, R., Varga, Cs.-Gy., <i>A Schechter type critical point result in annular conical domains of a Banach space and applications</i>, DISCRETE AND CONTINUOUS DYNAMICAL SYSTEMS, vol. 36, nr. 7, 2016, P. 3775 - 3789.
+Cormos, A.-M., <b>Lisei H.-I.</b>, <i>Dynamic evaluation of CO2 capture using aqueous ammonia solution</i>, 10th European Congress of Chemical Engineering, European Federation of Chemical Engineering, 2015, P. 1.
+<b>Lisei H.-I.</b>, Keller, D., Variational Solution of Stochastic Schrodinger Equations with Power-Type Nonlinearity, STOCHASTIC ANALYSIS AND APPLICATIONS, 33, nr. 4, 2015, P. 653 - 672.
+Varga Cs.-Gy., <b>Lisei H.-I.</b>, A multiplicity result for a class of elliptic problems on a compact Riemannian manifold, JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS, 167/3, 2015, P. 912 - 927.
+<b>Lisei H.-I.</b>, Grecksch, W., <i>Approximation of stochastic nonlinear equations of Schrödinger type by the splitting method</i>, Science_Citation_Expanded, STOCHASTIC ANALYSIS AND APPLICATIONS, 31, No. 2 , 2013, P. 314 - 335.
+<b>Lisei H.-I.</b>, Varga Cs.-Gy., <i>Multiple Solutions for Gradient Elliptic Systems with Nonsmooth Boundary Conditions</i>, MEDITERRANEAN JOURNAL OF MATHEMATICS, vol 8, nr 1, 2011, P. 67 - 77.
+<b>Lisei H.-I.</b>, Grecksch, W., <i>Stochastic Nonlinear Equations of Schrödinger Type</i>, STOCHASTIC ANALYSIS AND APPLICATIONS, 29, 2011, P. 631 - 653.
+Varga Csaba-Gyorgy, Lisei Hannelore-Inge, Molnár, A.-É., On a class of inequality problems with lack of compactness , Science_Citation_Expanded, JOURNAL OF MATHEMATICAL ANALYSIS AND APPLICATIONS, 378, Nr. 2 , 2011, P. 741 - 748.
+<b>Lisei H.-I.</b>, Lazar I.-C., <i>Application of a Three Critical Point Theorem for a Class of Inclusion Problems</i>i>, Mathematica (Academia Românǎ), 2011, P. 157-164.
+<b>Lisei H.-I.</b>, Grecksch, W., <i>Stochastic Schrödinger Equation Driven by Cylindrical Wiener Process and Fractional Brownian Motion</i>, Studia Univ. Babeş-Bolyai, Mathematica , 2011, P. 381-391.</li>

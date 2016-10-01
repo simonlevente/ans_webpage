@@ -1,0 +1,215 @@
+<center>
+<h4>Anul universitar 2015/2016, semestrul I.</h4>
+</center>
+<p>6 octombrie</p>
+<ul>
+<li>Interpolare fractală de tip stochastic (<strong>lector dr. Somogyi Ildikó</strong>)</li>
+</ul>
+<p>20 octombrie</p>
+<ul>
+<li>O modificare iterativă a operatorului Shepard-Bernoulli (<strong>conf. dr. Cătinaş Teodora</strong>)</li>
+</ul>
+<p>3 noiembrie</p>
+<ul>
+<li>Studiul unor procese de aproximare (<strong>prof. dr. Agratini Octavian</strong>)</li>
+</ul>
+<p>17 noiembrie</p>
+<ul>
+<li>Integrale stochastice în raport cu procese de tip Levy (<strong>conf. dr. Lisei Hannelore</strong>)</li>
+</ul>
+<p>8 decembrie</p>
+<ul>
+<li>Interpolare în puncte Cebîșev și aplicații (<strong>conf. dr. Trîmbițaș Radu</strong>)</li>
+</ul>
+<p>12 ianuarie</p>
+<ul>
+<li>Descrierea exactă bazată pe puncte de control a curbelor și suprafețelor în spații Cebîșev extinse (<strong>lector dr. Roth Agoston</strong>)</li>
+</ul>
+<center>
+<h4> </h4>
+<h4>Anul universitar 2014/2015, semestrul II.</h4>
+</center>
+<p>3 martie</p>
+<ul>
+<li>Infinite Dimensional Stochastic Analysis (<strong>Alexandra Neamțu</strong>, asist. drd., Friedrich Schiller University, Jena)</li>
+</ul>
+<p>17 martie</p>
+<ul>
+<li>Teste pentru coeficienți de corelație (<strong>conf. dr. Lisei Hannelore</strong>)</li>
+</ul>
+<p>31 martie</p>
+<ul>
+<li>Validarea cu ajutorul statisticii matematice a datelor de observație obținute în studiile medicale (<strong>conf. dr. Chiorean Ioana</strong>)</li>
+</ul>
+<p>21 aprilie</p>
+<ul>
+<li>Cvasi - interpolanți de tip thin - plate spline obținuți cu ajutorul operatorilor Bernoulli (<strong>conf. dr. Cătinaş Teodora</strong>)</li>
+</ul>
+<p>5 mai</p>
+<ul>
+<li>Aplicații ale interpolării spline fractale (<strong>lector dr. Somogyi Ildikó</strong>)</li>
+</ul>
+<p>19 mai</p>
+<ul>
+<li>O metodă iterativă rapid convergentă pentru ecuații integrale Volterra de speța a doua (<strong>lector dr. Micula Sanda</strong>)</li>
+</ul>
+<p>2 iunie</p>
+<ul>
+<li>Șiruri de tip Kantorovich asociate unor procese liniare de aproximare de tip discret (<strong>prof. dr. Agratini Octavian</strong>)</li>
+</ul>
+<center>
+<h4> </h4>
+<h4>Anul universitar 2014/2015, semestrul I.</h4>
+</center>
+<p>14 octombrie</p>
+<ul>
+<li>Metoda de interpolare fractală de tip spline (<strong>lector dr. Somogyi Ildiko</strong>)</li>
+</ul>
+<p>28 octombrie</p>
+<ul>
+<li>Operatori de aproximare multidimensionali (<strong>conf. dr. Cătinaş Teodora</strong>)</li>
+</ul>
+<p>4 noiembrie</p>
+<ul>
+<li>Metode numerice pentru ecuații integrale neliniare (<strong>lector dr. Micula Sanda</strong>)</li>
+</ul>
+<p>18 noiembrie</p>
+<ul>
+<li>On Sums of Type <em>Σ<sub>A⊆S</sub> f(A)</em> (<strong>Professor Dr. rer. nat. habil. Klaus Dohmen</strong>, Mittweida, Germania)</li>
+</ul>
+<p>28 noiembrie</p>
+<ul>
+<li>Studiul statistic al efectelor antiinflamatorii ale unor creme dermatologice pe bază de extracte naturale şi nanoparticule de aur si argint (<strong>conf. dr. Chiorean Ioana</strong>)</li>
+</ul>
+<p>10 decembrie</p>
+<ul>
+<li>Modelul stochastic al mersului aleator (<strong>conf. dr. Lisei Hannelore</strong>)</li>
+</ul>
+<p>17 decembrie</p>
+<ul>
+<li>Procese liniare de tip King (<strong>Indrea Adrian</strong>, doctorand UBB)</li>
+</ul>
+<p>13 ianuarie</p>
+<ul>
+<li>Analiza unui model de gestiune a stocului (<strong>lector dr. Roşca Natalia</strong>)</li>
+</ul>
+<center>
+<h4> </h4>
+<h4>Anul universitar 2013/2014, semestrul II.</h4>
+</center>
+<p>25 februarie</p>
+<ul>
+<li>Procese de aproximare de tip Jain (<strong>prof. dr. Agratini Octavian</strong>)</li>
+</ul>
+<p>11 martie</p>
+<ul>
+<li>Metode de colocaţie pentru probleme de frontieră (<strong>lector dr. Micula Sanda</strong>)</li>
+</ul>
+<p>25 martie</p>
+<ul>
+<li>Operatori cvasi - interpolanţi de tip Bernoulli (<strong>lector dr. Cătinaş Teodora</strong>)</li>
+</ul>
+<p>8 aprilie</p>
+<ul>
+<li>Aproximare prin metoda Galerkin a soluţiei ecuaţiei stocastice Schrödinger (<strong>conf. dr. Lisei Hannelore</strong>)</li>
+</ul>
+<p>15 aprilie</p>
+<ul>
+<li>Interpolare în puncte Cebîşev. Aplicaţii, software (<strong>conf. dr. Trîmbiţaş Radu</strong>)</li>
+</ul>
+<p>5 mai</p>
+<ul>
+<li>Metode de interpolare fractală (<strong>lector dr. Somogyi Ildikó</strong>)</li>
+</ul>
+<p>6 mai</p>
+<ul>
+<li>Asupra unor modele de gestiune a stocului (<strong>lector dr. Roşca Natalia</strong>)</li>
+</ul>
+<p>20 mai</p>
+<ul>
+<li>O metodă iterativă rapid convergentă pentru ecuații integrale Volterra de speța a doua (<strong>lector dr. Micula Sanda</strong>)</li>
+</ul>
+<p>3 iunie</p>
+<ul>
+<li>Studii statistice în medicină (<strong>conf. dr. Chiorean Ioana</strong>)</li>
+</ul>
+<center>
+<h4> </h4>
+<h4>Anul universitar 2013/2014, semestrul I.</h4>
+</center>
+<p>8 octombrie</p>
+<ul>
+<li>Aproximarea funcţiilor prin clase trunchiate de operatori (<strong>prof. dr. Agratini Octavian</strong>)</li>
+</ul>
+<p>22 octombrie</p>
+<ul>
+<li>Iteratele unor operatori de aproximare folosind principiul contracţiei (<strong>lector dr. Cătinaş Teodora</strong>)</li>
+</ul>
+<p>5 noiembrie</p>
+<ul>
+<li>Operatori de memorie în mecanica de contact (doctorand UBB, asistent <strong>Farcaş Anca</strong> - Facultatea de Farmacie)</li>
+</ul>
+<p>12 noiembrie</p>
+<ul>
+<li>Convection in Nanofluids (<strong>Assoc. Professor Mohammad Mansur Rahman</strong>, PhD - Department of Mathematics and Statistics, College of Science, Sultan Qaboos University, Muscat, Sultanate of Oman)</li>
+</ul>
+<p>19 noiembrie</p>
+<ul>
+<li>Analiza statistică a efectului antiinflamator al unor produse dermatologice pe bază de plante şi nanoparticule (<strong>conf. dr. Chiorean Ioana</strong>)</li>
+</ul>
+<p>3 decembrie</p>
+<ul>
+<li>Metoda divizării pentru ecuaţia stocastică Schrödinger (<strong>conf. dr. Lisei Hannelore</strong>)</li>
+</ul>
+<p>17 decembrie</p>
+<ul>
+<li>Colocări trigonometrice pentru probleme neliniare Riemann – Hilbert (<strong>lector dr. Micula Sanda)</strong></li>
+</ul>
+<p><strong>14 ianuarie</strong></p>
+<ul>
+<li>Un model de gestiune a stocului cu o rată a deteriorării ce urmează o distribuţie Weibull modificată (<strong>lector dr. Roşca Natalia</strong>)</li>
+</ul>
+<center>
+<h4> </h4>
+<h4>Anul universitar 2012/2013, semestrul II.</h4>
+</center>
+<p>26 februarie</p>
+<ul>
+<li>Un model stohastic de creştere a tumorilor cancerigene (<strong>conferenţiar dr. Lisei Hannelore</strong>)</li>
+</ul>
+<p>19 martie</p>
+<ul>
+<li>Approximation by Shannon Sampling Operators (<strong>profesor dr. Andi Kivinukk</strong>, directorul Departamentului de Matematică, Universitatea din Tallinn, Estonia)</li>
+</ul>
+<p>23 aprilie</p>
+<ul>
+<li>Aplicaţii statistice în patologia cutanată (<strong>conferenţiar dr. Chiorean Ioana</strong>)</li>
+</ul>
+<p>21 mai</p>
+<ul>
+<li>Rezultate de tip Korovkin bazate pe aproximarea A- statistică (<strong>asistent drd. Fărcaş Anca</strong>, UMF Iuliu Haţieganu, Cluj - Napoca)</li>
+</ul>
+<p>4 iunie (şedinţă comună cu a grupului de cercetare <em>Geometrie</em>)</p>
+<ul>
+<li>Geometric Techniques to Approximate Functions (<strong>profesor dr. Themistocles M. Rassias</strong>, Departamentul de Matematică, Universitatea Tehnică Naţională din Atena, Grecia)</li>
+</ul>
+<center>
+<h4> </h4>
+<h4>Anul universitar 2012/2013, semestrul I.</h4>
+</center>
+<p>9 octombrie</p>
+<ul>
+<li>Operatori de tip King şi aplicaţii (<strong>drd. Indrea Adrian</strong>, Satu Mare)</li>
+</ul>
+<p>6 noiembrie</p>
+<ul>
+<li>Metode Monte Carlo cu aplicaţii în economie şi finanţe (<strong>lector dr. Roşca Natalia</strong>)</li>
+</ul>
+<p>5 decembrie</p>
+<ul>
+<li>Probleme de contact quasistatice cu variabilă internă şi termen memorie (<strong>cercetător Pătrulescu Flavius</strong>, Institutul de Calcul „T. Popoviciu” al Academiei Române)</li>
+</ul>
+<p>8 ianuarie</p>
+<ul>
+<li>Convergenţa statistică a unor clase de operatori de tip integral din domeniul complex (<strong>profesor dr. Agratini Octavian</strong>)</li>
+</ul>

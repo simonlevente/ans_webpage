@@ -1,0 +1,11 @@
+<ul>
+<li>Acu, A.-M., Muraru, C.-V., Sofonea, D. F., <strong>Radu, V.-A.</strong>, <em>Some approximation properties of a Durrmeyer variant of q-Bernstein–Schurer operators</em>, MATHEMATICAL METHODS IN THE APPLIED SCIENCES, 2016, P. 1 – 15.</li>
+<li>Muresan, A.-S., Filip, D.-A., Curt, C.-P., Lung, R. I., Olteanu G. E., <strong>Radu, V.-A., </strong>Rosca, A.-V., Coconet, T., Filip, A.-D., Pop, F.-V., Sipos, K., carte, <em>Matematici Financiare si Actuariale. Teorie si probleme</em>, EDITURA MEGA, CLUJ-NAPOCA, 2015, P. 315.</li>
+<li><strong>Radu, V.-A.</strong>, <em>D.D. STANCU OPERATORS: ON SOME OF THEIR LINEAR COMBINATIONS AND GENERALIZATIONS</em>, MATHEMATICA, 56 (79), no 2, 2014, P. 166 – 174.</li>
+<li><strong>Radu, V.-A.</strong>, <em>Academician Professor D.D. Stancu - a life time dedicated to numerical analysis and theory of approximation</em>, GENERAL MATHEMATICS, 22, no 1, 2014, P. 3 – 11.</li>
+<li><strong>Radu, V.-A.</strong>, <em>THE MATHEMATICS EFFECTIVENESS IN ECONOMICS, REVISTA DE STUDII SI CERCETARI ECONOMICE VIRGIL MADGEARU</em>, VII, no1, 2014, P. 97 – 123.</li>
+<li>Muresan, A.-S., Filip, D.-A., Curt, C.-P., Lung, R. I., Olteanu G. E., <strong>Radu, V.-A.</strong>, Rosca, A.-V., Coconet, T., Filip, A.-D., Pop, F.-V., Sipos, K., carte, <em>MATEMATICI FINANCIARE SI ACTUARIALE - Teorie si probleme</em> EDITURA MEGA, CLUJ-NAPOCA, 2013, P. 315.</li>
+<li><strong>Radu, V.-A.</strong>, <em>ON THE HISTORY OF THE GAMMA FUNCTION AND THE FOUNDATIONS OF THE STATISTICS DISTRIBUTIONS</em>, REVISTA DE STUDII SI CERCETARI ECONOMICE VIRGIL MADGEARU, VI , no 1, 2013, P. 155 – 164.</li>
+<li>Muresan, A.-S., Filip, D.-A., Curt, C.-P., Lung, R. I., Olteanu G. E., <strong>Radu, V.-A.</strong>, Rosca, A.-V., Coconet, T., Filip, A.-D., Pop, F.-V., Sipos, K., Petru, T. P., Brendea, G.-M., Pacurar, M., Mihoc, M., Rap, I., carte, <em>Matematici aplicate in economie</em>, EDITURA MEGA, CLUJ-NAPOCA, 2012, P. 324.</li>
+<li>Muresan, A.-S., Filip, D.-A., Curt, C.-P., Lung, R. I., Olteanu G. E., <strong>Radu, V.-A.</strong>, Rosca, A.-V., Pacurar, M., Petru, T. P., Brendea, carte, <em>Matematici aplicate in economie</em>, EDITURA MEGA, CLUJ-NAPOCA, 2011, P. 278.</li>
+</ul>

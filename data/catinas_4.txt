@@ -1,0 +1,15 @@
+<ul>
+<li>Rus, A. I., Otrocol, D., <strong>Cătinaș, T.</strong>, <em>The iterates of positive linear operators with the set of constant functions as the fixed point set</em>, CARPATHIAN JOURNAL OF MATHEMATICS, 32, 2, 2016, P. 165 - 172.</li>
+<li><strong>Cătinaș, T.</strong>, <em>Extension of some positive and linear operators to domains with curved sides</em>, conferinta ISI, International Conference on Natural Science and Applied Mathematics, MATEC Web Conferences, 68, 2016, P. 1 - 5.</li>
+<li><strong>Cătinaș, T.</strong>, <em>An iterative modification of Shepard-Bernoulli operator</em>, RESULTS IN MATHEMATICS, 2015, P. 1 - 9.</li>
+<li><strong>Cătinaș, T.</strong>, Blaga, P., Coman, Gh., <em>Interpolation operators on some triangles with curved sides</em>, ANALELE STIINTIFICE ALE UNIVERSITATII AL I CUZA DIN IASI-SERIE NOUA-MATEMATICA, 60, no.2, 2014, P. 449 - 487.</li>
+<li><strong>Cătinaș, T.</strong>, <em>Bivariate Quasi-Interpolation Operator of Bernoulli Type</em>, MEDITERRANEAN JOURNAL OF MATHEMATICS, 11, 4 , 2014, P. 1171 - 1183.</li>
+<li><strong>Cătinaș, T.</strong>, <em>Iterates of Bernstein Type Operators on a Triangle with All Curved Sides</em>, ABSTRACT AND APPLIED ANALYSIS, 2014, P. 1 - 7.</li>
+<li><strong>Cătinaș, T. (ed.)</strong>, <em>Numerical Analysis and Approximation Theory</em>, Book of Abstracts, RISOPRINT, Cluj-Napoca, 2014, P. 118.</li>
+<li><strong>Cătinaș, T.</strong>, Blaga, P., Coman, Gh., <em>Surfaces generation by blending interpolation on a triangle with one curved side</em>, RESULTS IN MATHEMATICS, Volume 64, No. 3-4, 2013, P. 343 - 355.</li>
+<li><strong>Cătinaș, T.</strong>, Otrocol, D., <em>Iterates of multivariate Cheney-Sharma operators</em>, JOURNAL OF COMPUTATIONAL ANALYSIS AND APPLICATIONS, 15,7, 2013, P. 1240 - 1246.</li>
+<li>Blaga, P., <strong>Cătinaș, T.</strong>, Coman, Gh., <em>Bernstein-Type Operators on Triangle with One Curved Side</em>, MEDITERRANEAN JOURNAL OF MATHEMATICS, 9, 2012, P. 843 - 855.</li>
+<li>Blaga, P., <strong>Cătinaș, T.</strong>, Coman, Gh., <em>Bernstein-type operators on a triangle with all curved sides</em>, APPLIED MATHEMATICS AND COMPUTATION, 218, 2011, P. 3072 - 3082.</li>
+<li>a</li>
+</ul>
+<p>a</p>

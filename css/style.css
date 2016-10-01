@@ -1,0 +1,171 @@
+/*!
+ * style.css
+ * for the website of the research group
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+body {
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
+}
+p, ul{
+  font-size: 18px;
+}
+hr.colored {
+  border-top: 1px solid #0c574f;
+}
+
+hr.white {
+  border-top: 1px solid white;
+}
+
+
+header {
+  text-align: center;
+  background: #0c574f;
+  color: white;
+}
+header .container {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+header img {
+  display: block;
+  margin: 0 auto 20px;
+}
+
+
+header .intro-text .name {
+  display: block;
+  font-family: Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.5em;
+}
+header .intro-text .skills {
+  font-size: 1.25em;
+  font-weight: 300;
+}
+@media (min-width: 768px) {
+  header .container {
+    padding-top: 200px;
+    padding-bottom: 100px;
+  }
+  header .intro-text .name {
+    font-size: 2.75em;
+  }
+  header .intro-text .skills {
+    font-size: 2.25em;
+  }
+}
+.btn-responsive {
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+.btn-outline,
+.btn-outline:focus {
+  color: white;
+  font-size: 20px;
+  border: solid 2px white;
+  background: transparent;
+  transition: all 0.3s ease-in-out;
+  margin-top: 15px;
+}
+.btn-outline:hover,
+.btn-outline:active,
+.btn-outline.active{
+  color: #2C3E50;
+  background: white;
+  border: solid 2px white;
+} 
+.btn-outline-invers,
+.btn-outline-invers:focus {
+  color: white;
+  font-size: 20px;  
+  background-color: #2C3E50;
+  transition: all 0.3s ease-in-out;
+  margin-top: 15px;
+}
+.btn-outline-invers:hover,
+.btn-outline-invers:active,
+.btn-outline-invers.active {
+  color: white;
+  background: #0c574f;
+  
+}
+
+.btn-primary {
+  color: white;
+  background-color: #2C3E50;
+  border-color: #2C3E50;
+  font-weight: 700;
+}
+.portfolio-modal .modal-content, .modal-dialog {
+  align: center;
+  background-color: white;
+  color: #2C3E50;
+  border-radius: 0;
+  background-clip: border-box;  
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: none;  
+  min-height: 100%;   
+  width: 100%;
+  padding: 85px 0;
+  text-align: center;
+}
+.portfolio-modal .modal-content, .modal-dialog h2 {
+  margin: 0;
+  font-size: 3em;
+}
+.portfolio-modal .modal-content, .modal-dialog img {
+  margin-bottom: 10%;
+}
+.portfolio-modal .modal-content, .modal-dialog .item-details {
+  margin: 10% 0;
+}
+.portfolio-modal .close-modal {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  background-color: transparent;
+  top: 35px;
+  right: 5%;
+  cursor: pointer;
+}
+.portfolio-modal .close-modal:hover {
+  opacity: 0.3;
+}
+.portfolio-modal .close-modal .lr {
+  height: 75px;
+  width: 3px;
+  margin-left: 35px;
+  background-color: black;
+  transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  /* IE 9 */
+  -webkit-transform: rotate(45deg);
+  /* Safari and Chrome */
+  z-index: 1051;
+}
+.portfolio-modal .close-modal .lr .rl {
+  height: 75px;
+  width: 3px;
+  background-color: black;
+  transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  /* IE 9 */
+  -webkit-transform: rotate(90deg);
+  /* Safari and Chrome */
+  z-index: 1052;
+}
+.portfolio-modal .modal-backdrop {
+  opacity: 0;
+  display: none;
+}
+
+
+
+
+.input-pub input{
+    width: 400px;/*full width - grey on the side - 2*10px padding*/
+}

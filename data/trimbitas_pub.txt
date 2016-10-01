@@ -1,0 +1,8 @@
+<ul>
+<li>Grosan, T. S., <strong>Trîmbițaș R.-T.</strong>, Pop, I., <em>Mixed convection boundary layer flow past vertical flat plate in nanofluid: case of prescribed wall heat flux</em>, APPLIED MATHEMATICS AND MECHANICS-ENGLISH EDITION, 36, 2015, P. 1091 - 1104.</li>
+<li>Pop, I., Filip, D.-A., <strong>Trîmbițaș R.-T.</strong>, <em>Fully developed mixed convection through a vertical porous channel with an anisotropic permeability: case of heat flux</em>, Studia Universitatis Babes-Bolyai Mathematica, 2015, P. 341-351.</li>
+<li>Pop, I., Grosan, T. S., <strong>Trîmbițaș R.-T.</strong>, <em>Mixed convection boundary layer flow along vertical thin needles in nanofluids</em>, INTERNATIONAL JOURNAL OF NUMERICAL METHODS FOR HEAT & FLUID FLOW, 24, 2014, P. 579 - 594.</li>
+<li>Agratini, O., <strong>Trîmbițaș R.-T.</strong>, Tarabie, S., <em>Approximation of bivariate functions by truncated classes of operators</em>, Third International Conference on Modelling and Development of Intelligent Systems, Sibiu - Romania, October 10 - 12, 2013, Lucian Blaga University Press, Editor: Dana Simian, ISSN: 2067 - 3965, Mathematical Reviews, 2014, P. 11-19.</li>
+<li>Filip, D.-A., <strong>Trîmbițaș R.-T.</strong>, Pop, I., <em>Fully Developed Assisting Mixed Convection through a Vertical Porous Channel with an Anisotropic Permeability: Case of Heat Flux, 5th International Conference of Porous Media</em>, Presa Universitara Clujeana, Editor: I Pop, A A Mohamad, R Trimbitas, T Grosan, 2013, P. 145-156.</li>
+<li>Grosan, T. S., Pop, I., <strong>Trîmbițaș R.-T.</strong>, <em>Proceedings of the 5th International Conference on Applications of Porous Media</em>, PRESA UNIVERSITARA CLUJEANA , Cluj-Napoca, 2013, P. 446.</li>
+</ul>

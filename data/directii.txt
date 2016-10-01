@@ -1,0 +1,10 @@
+<p><strong>Direcţii de cercetare:</strong></p>
+<ul>
+<li>teoria aproximării,</li>
+<li>metode numerice,</li>
+<li>procese liniare de aproximare,</li>
+<li>procese aleatoare,</li>
+<li>ecuaţii stohastice,</li>
+<li>calcul paralel,</li>
+<li>matematici financiare.</li>
+</ul>

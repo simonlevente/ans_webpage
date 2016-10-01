@@ -1,0 +1,5 @@
+<ul>
+<li><strong>Somogyi, I.</strong>, Soós, A., <em>Spline and fractal spline interpolation</em>, Studia Univ. Babes-Bolyai, Mathematica, 60, 2, P. 193-201, 2015.</li>
+<li><strong>Somogyi, I.</strong>, Soós, A., <em>Stochastic fractal interpolation with variable parameter</em>, Scientific Journal Journal of Mathematics Issue 2, 1, 2015, P. 28-33.</li>
+<li><strong>Somogyi, I.</strong>, Soós, A., <em>Interpolation Methods for Internet Traffic</em>, Applied Stochastic Models and Data Analysis - ASMDA and DEMOGRAPHICS, In: Bozeman, J., Girardin, V., Skiadas, C. H. (eds.): New Perspectives on Stochastic Modeling and Data Analysis, 2013, p. 887-892.</li>
+</ul>
